@@ -23,7 +23,7 @@ Skript obsahuje interaktivní záložkové rozhraní pro vizualizaci výsledků:
 3. **Scatter plot:** Korelační zobrazení Determinismu a Laminarity pro identifikaci vizuálních strategií.
 4. **Radar plot:** Pavučinový graf pro rychlé zobrazení průměrného kognitivního profilu.
 
-## 📂 Struktura vstupních dat
+## Struktura vstupních dat
 Nástroj je primárně optimalizován pro `.csv` exporty z open-source webové aplikace **GazePlotter** (https://gazeplotter.com).
 Vstupní soubor fixací musí obsahovat následující sloupce:
 * `stimulus`: Název/ID mapového stimulu.
